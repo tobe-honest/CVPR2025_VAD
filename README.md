@@ -1,1 +1,3 @@
 # CVPR2025_VAD
+
+We will update the code soon...
